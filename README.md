@@ -3,4 +3,4 @@ It's nothing special, just an animation using keyframes with some stars and the 
 
 Pics from Carla Notarobot @ YouTube and moon png from Pikpng.
 
-https://d4lbit.github.io/starrynightwmoon/
+https://d4lbit.github.io/starmoon/
